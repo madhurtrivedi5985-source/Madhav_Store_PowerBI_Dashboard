@@ -3,7 +3,7 @@
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](MADHAV_ECOMMERCE_SALES_DASHBOARD-1.png)
 
 ## 📌 Overview
 An interactive **Power BI Dashboard** built to analyze Madhav Ecommerce sales performance. It provides insights into sales, profit, customer behavior, payment methods, and product performance through interactive visualizations.
